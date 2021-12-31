@@ -13,5 +13,6 @@ conda env create -f environment.yml
 * HOG:
 https://zhuanlan.zhihu.com/p/85829145
 https://learnopencv.com/histogram-of-oriented-gradients/
+https://www.leiphone.com/category/yanxishe/ZKsGd2JRKr766wEd.html
 * 图像梯度下降与sobel算子
 https://zhuanlan.zhihu.com/p/113397988
